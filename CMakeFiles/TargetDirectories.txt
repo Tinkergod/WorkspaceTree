@@ -1,0 +1,3 @@
+/home/emanuel/Documents/WorkspaceTree/CMakeFiles/rebuild_cache.dir
+/home/emanuel/Documents/WorkspaceTree/CMakeFiles/WorkspaceTree.dir
+/home/emanuel/Documents/WorkspaceTree/CMakeFiles/edit_cache.dir

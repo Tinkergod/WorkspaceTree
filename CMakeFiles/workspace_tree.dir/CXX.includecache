@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/emanuel/Documents/WorkspaceTree/WorkspaceNode.h
+iostream
+-
+stdlib.h
+-
+vector
+-
+
+/home/emanuel/Documents/WorkspaceTree/main.cpp
+iostream
+-
+WorkspaceNode.h
+/home/emanuel/Documents/WorkspaceTree/WorkspaceNode.h
+
